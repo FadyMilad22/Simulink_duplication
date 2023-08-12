@@ -1,11 +1,6 @@
 Simulink Duplicator
-
-	by Team 23
-	Tasneem Salama Abd-Elhamid Abd-Elhady	 2000036 
-	Fady Milad Garas 		     	 1900003
-	Sarah Sherif Mohamed Abdelhady       	 2000427
-	Mariam Mohamed Abdelkader Mohamed        2000973
-	Alaa Mohsen Sayed El-Sayed 		 2000195
+Fady Milad Garas 		     	 
+	
 	
 The Simulink Duplicator is a Java application designed to duplicate and visualize Simulink models stored in MDL files. It provides a graphical representation of the Simulink model and allows users to browse and select MDL files for duplication.
 
